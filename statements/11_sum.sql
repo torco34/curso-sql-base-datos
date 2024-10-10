@@ -1,1 +1,1 @@
-SELECT COUNT(age) FROM users
+SELECT SUM(age) FROM users
